@@ -14,7 +14,7 @@ setup(
             'inference=scripts.cli:main'
         ]
     },
-    author='Your Name',
+    author='Eli Homsi',
     description='A CLI tool to infer emotions from text',
     python_requires='>=3.6',
 )
